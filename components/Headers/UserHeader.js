@@ -6,6 +6,7 @@ import CardDeck from 'react-bootstrap/CardDeck'
 import Image from 'react-bootstrap/Image'
 
 // reactstrap components
+//Pull request
 import { Button, Container, Row, Col } from "reactstrap";
 //import  './assets/css/shakazz.css';
 
