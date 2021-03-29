@@ -1,0 +1,144 @@
+.home_page_section_shakazz{
+	height:35em;
+	background-color:#0e251d;
+	color:white;
+}
+.home_page_section_presentation{
+	height:35em;
+	padding-top:8em !important;
+	background-color:#333333 !important;
+	border-radius:0 !important;
+	margin-bottom:0 !important;
+	color:white;
+	text-align:center;
+	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.home_page_section_presentation h1{
+	color:white;
+	font-size:2.5em;
+}
+.home_page_section_presentation p{
+	margin:auto;
+	width:60%;
+}
+.home_page_section_presentation a{
+	margin:auto;
+	cursor:pointer;
+	text-decoration:none;
+}
+.home_page_section_whyus{
+	height:30em;
+	width:80%;
+	margin:auto;
+	box-shadow:
+  0 3.4px 2.7px rgba(0, 0, 0, 0.031),
+  0 8.7px 6.9px rgba(0, 0, 0, 0.044),
+  0 17.7px 14.2px rgba(0, 0, 0, 0.056),
+  0 36.5px 29.2px rgba(0, 0, 0, 0.069),
+  0 100px 80px rgba(0, 0, 0, 0.1)
+;
+	margin-top:-8em;
+	padding-top:2em !important;
+	padding-left:6em !important;
+	background-color:white !important;
+	border-radius:0 !important;
+	margin-bottom:0 !important;
+	color:white;
+	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.home_page_section_whyus h1{
+	font-size:2.5em;
+	color:black;
+}
+.home_page_section_market{
+	height:30em;
+	width:80%;
+	margin:auto;
+	margin-top:6em;
+	padding-top:2em !important;
+	padding-left:6em !important;
+	background-color:#24422f !important;
+	border-radius:0 !important;
+	margin-bottom:0 !important;
+	color:white;
+	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.home_page_section_market h1{
+	font-size:2.5em;
+	color:white;
+}
+.home_page_section_market_carddeck{
+	margin-right:6em !important;
+}
+.home_page_section_market_card{
+	background-color:none !important;
+	width:10em !important;
+}
+.home_page_section_plans{
+	height:30em;
+	width:70%;
+	margin:auto;
+	margin-top:6em;
+	padding-top:2em !important;
+	padding-left:6em !important;
+	background-color:white !important;
+	border-radius:0 !important;
+
+}
+.home_page_section_plans h1{
+	color:black;
+	opacity:0.5;
+}
+.home_page_section_trust{
+	height:25em;
+	width:80%;
+	margin:auto;
+	margin-top:6em;
+	padding-top:2em !important;
+	padding-left:6em !important;
+	background-color:#f5f5f5 !important;
+	border-radius:0 !important;	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.home_page_section_trust h1{
+	margin-bottom:2em;
+	color:black;
+	opacity:0.5;
+	font-size:2.5em;
+}
+.home_page_section_started{
+	height:20em;
+	width:80%;
+	margin:auto;
+	background-color:#24422f !important;
+	border-radius:0 !important;	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.home_page_section_started h1{
+	color:black;
+}
+.home_page_section_started_jumbotron{
+	height:100%;
+	width:100%;
+	text-align:center;
+	margin-top:0 !important;
+	background-color:white !important;
+	border-radius:0 !important;
+	margin-bottom:0 !important;
+}
+.home_page_section_started_col1{
+	padding:2em;
+}
