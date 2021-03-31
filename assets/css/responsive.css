@@ -56,6 +56,19 @@
 	.home_page_footer_first ul{
 		width:100%;
 	}
+	.aboutus_page_section_presentation{
+		padding:1em;
+		height:30em;
+	}
+	.aboutus_page_section_mission{
+		padding:1em;
+		height:30em;
+	}
+	.aboutus_page_section_vision{
+		padding:1em;
+		height:30em;
+		margin-top:25em;
+	}
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -74,6 +87,18 @@
 	}
 	.home_page_section_shakazz_jumbotron{
 		width:40em;
+	}
+	.aboutus_page_section_presentation{
+		height:53em;
+	}
+	.aboutus_page_section_team{
+		height:40em;
+	}
+	.plans_page_section_plan{
+		width:99%;
+	}
+	.plans_page_section_image{
+		height:40em;
 	}
 }
 

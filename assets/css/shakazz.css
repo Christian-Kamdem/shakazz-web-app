@@ -1,3 +1,4 @@
+/*Start Home Page*/
 .home_page_section_shakazz{
 	height:35em;
 	background-color:#0e251d;
@@ -267,4 +268,271 @@
 .home_page_footer_first h5{
 	font-size:0.65em;
 	color:white;
+}
+/*End Home Page*/
+.aboutus_page_section_team{
+	padding-top:5em;
+	height:20em;
+	width:80%;
+	margin:auto;
+	text-align:center;
+	background-color:white !important;
+	border-radius:0 !important;	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.aboutus_page_section_team h1{
+	color:black;
+}
+.aboutus_page_section_team h3{
+	color:black;
+	opacity:0.6;
+}
+.aboutus_page_section_team h5{
+	color:black;
+	font-size:0.6em;
+	width:80%;
+	margin:auto;
+}
+.aboutus_page_section_team_div{
+	background-color:#f5f5f5;
+	width:20em !important;
+	display:block;
+	padding-top:1em;
+	padding-bottom:1em;
+}
+.aboutus_page_section_team_div_bottom{
+	text-align:left;
+	height:5em !important;
+	padding:1em;
+}
+.aboutus_page_section_team_div p{
+	font-weight:bold;
+	font-size:1.5em;
+}
+.aboutus_page_section_team_div h6{
+	font-size:0.8em;
+	font-weight: normal;
+}
+.aboutus_page_section_mission{
+	padding:5em;
+	color:white;
+	height:30em;
+	width:100%;
+	text-align:left !important;
+	margin:auto;
+	text-align:center;
+	background-color:#24422f !important;
+	border-radius:0 !important;	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.aboutus_page_section_mission h1{
+	color:white;
+	font-size:2.5em;
+}
+.aboutus_page_section_vision{
+	padding:5em;
+	color:white;
+	height:30em;
+	width:100%;
+	text-align:left !important;
+	margin:auto;
+	text-align:center;
+	background-color:#cc9933 !important;
+	border-radius:0 !important;	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.aboutus_page_section_vision h1{
+	color:white;
+	font-size:2.5em;
+}
+.aboutus_page_section_presentation{
+	padding:5em;
+	padding-top:0em;
+	color:white;
+	height:40em;
+	width:100%;
+	text-align:center !important;
+	margin:auto;
+	text-align:center;
+	background-color:white !important;
+	border-radius:0 !important;	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.aboutus_page_section_presentation_jombotron{
+	background-color:transparent !important;
+}
+.aboutus_page_section_presentation_jombotron h1{
+	font-size:2.5em;
+	color:black;
+	opacity:0.7;
+}
+.aboutus_page_section_presentation_jombotron p{
+	font-size:1em;
+	color:black;
+	width:80%;
+	margin:auto;
+}
+.aboutus_page_section_presentation_jombotron_text{
+	text-align:left;
+}
+.aboutus_page_section_presentation_jombotron_text h3{
+	color:black !important;
+	opacity:0.7;
+}
+.aboutus_page_section_presentation_jombotron_text h4{
+	color:black !important;
+	opacity:0.5;
+	font-size:0.8em;
+	width:20em;
+}
+.aboutus_page_section_image{
+	height:36em;
+	padding-top:8em !important;
+	background-color:#333333 !important;
+	border-radius:0 !important;
+	margin-bottom:0 !important;
+	color:white;
+	text-align:left;
+	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.aboutus_page_section_image_jombotron{
+	background-color:transparent !important;
+	margin-bottom:0;
+	margin:auto !important;
+	margin-top:8em !important;
+	width:85%;
+}
+.aboutus_page_section_image_jombotron h1{
+	font-size:2.5em;
+	font-weight:100;
+	color:white;
+	letter-spacing: 2px;
+	line-height: 100%;
+}
+.aboutus_page_section_image_jombotron h2{
+	font-size:2.8em;
+	font-weight:bold;
+	color:white;
+	line-height: 130%;
+}
+.aboutus_page_section_image_jombotron p{
+	font-size:1em;
+	font-weight:bold;
+	letter-spacing: 1.3px;
+	line-height: 200%;
+}
+.services_page_section_image{
+	height:36em;
+	padding-top:8em !important;
+	background-color:#143427 !important;
+	border-radius:0 !important;
+	margin-bottom:0 !important;
+	color:white;
+	text-align:left;
+	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.plans_page_section_image{
+	height:36em;
+	padding-top:8em !important;
+	background-color:#143427 !important;
+	border-radius:0 !important;
+	margin-bottom:0 !important;
+	color:white;
+	text-align:left;
+	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.plans_page_section_image_jombotron{
+	background-color:transparent !important;
+	margin-bottom:0;
+	margin:auto !important;
+	margin-top:8em !important;
+	width:85%;
+}
+.plans_page_section_image_jombotron h1{
+	font-size:2.5em;
+	font-weight:100;
+	color:white;
+	letter-spacing: 2px;
+	line-height: 150%;
+}
+.plans_page_section_image_jombotron p{
+	font-size:1.1em;
+	font-weight:thin;
+	line-height: 150%;
+	width:75%;
+}
+.plans_page_section_plan{
+	height:75em;
+	padding-top:3em !important;
+	background-color:white !important;
+	width:90%;
+	margin:auto;
+	border-radius:0 !important;
+	margin-bottom:0 !important;
+	color:white;
+	text-align:left;
+	@font-face {
+	  font-family: 'Ubuntu';
+	  src: url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap");
+	}
+}
+.plans_page_section_plan h1{
+ font-size:2.5em;
+ color:black;
+}
+.plans_page_section_plan_tables{
+ text-align:left;
+ width:50em;
+ margin:auto;
+}
+.plans_page_section_plan_tables td{
+ width:30em !important;
+}
+.plans_page_section_plan_tables td{
+ width:30em;
+ min-height:15em;
+}
+.plans_page_section_plan_tables h1{
+ font-size:2em;
+ font-weight:900;
+}
+.plans_page_section_plan_tables h2{
+ font-size:1.3em;
+ font-weight:100;
+ color:black;
+ opacity:0.5;
+}
+.plans_page_section_plan_tables span{
+ font-size:1em;
+ width:5em;
+ font-weight:100;
+ color:black;
+ opacity:0.5;
+ display: inline-block;
+}
+.plans_page_section_plan_tables button{
+	width:80%;
+	background-color:#cc9933;
+	border:1px solid #cc9933;
+}
+.plans_page_section_plan_tables button:hover{
+	background-color:#143427;
+	border:1px solid #143427;
 }
