@@ -35,11 +35,6 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/plan.js"
-    ],
-    "/services": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/services.js"
     ]
   },
   "ampFirstPages": []
